@@ -1,0 +1,39 @@
+*{
+    /*margin: 0;
+    padding: 0;*/
+    box-sizing: border-box;
+}
+
+.box1{
+    width: 300px;
+    height: 150px;
+    margin: 50px 75px;
+    background-color: aqua;
+    border-width: 2px;
+    border-style: dashed;
+    border-color: coral;
+}
+
+.box2{
+    width: 300px;
+    height: 150px;
+    margin: 50px 75px;
+    background-color: yellow;
+    border: 2px dotted coral;
+}
+
+.box3{ 
+    width: 300px;
+    height: 150px;
+    margin: 19px 75px;
+    background-color: aqua;
+    outline: 10px inset MediumBlue;
+}
+
+.box4{
+    width: 300px;
+    height: 150px;
+    margin: 50px 75px;
+    background-color: aqua;
+    border-left: 5px solid;
+}

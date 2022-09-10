@@ -1,0 +1,274 @@
+.container {
+    width: 900px;
+    margin: 20px auto;
+    min-height: 700px;
+    border: 3px solid black;
+}
+
+.shapka-big {
+    height: 100px;
+    padding: 25px 0;
+    background-color: bisque;
+}
+.shapka-medium {
+    width: 75%;
+    height: 50px;
+    margin: 0 auto;
+    padding: 25px 0;
+    background-color: tan;
+}
+.shapka-small {
+    width: 50%;
+    height: 50px;
+    margin: 0 auto;
+    background-color: antiquewhite;
+}
+
+.menu {
+    height: 100px;
+}
+.menu-small {
+    width: 180px;
+    height: 100px;
+    float: left;
+}
+.cadet {
+    background-color:cadetblue;
+}
+.cornflower {
+    background-color: cornflowerblue;
+}
+.almond {
+    background-color:lightsalmon;
+}
+.salmon {
+    background-color: darksalmon;
+}
+.violet {
+    background-color: blueviolet;
+}
+
+.text {
+    height: 400px;
+}
+.text-small {
+    width: 300px;
+    height: auto;
+    float: left;
+}
+.left {
+    background-color: green;
+    padding: 10px 0 0 0;
+}
+.l_one {
+    width: 60%;
+    height: 75px;
+    margin: 0 auto;
+    background-color:gainsboro;
+}
+.l_two {
+    width: 20%;
+    height: 20px;
+    margin: 0 auto;
+    background-color: green;
+}
+.l_three {
+    width: 50%;
+    height: 80px;
+    margin: 0 auto;
+    background-color: darkred;
+}
+.l_four {
+    width: 75px;
+    height: 175px;
+    margin: 0 0 0 75px;
+    background-color: salmon;
+    float: left;
+}
+.l_five {
+    width: 150px;
+    height: 175px;
+    margin: 0 auto;
+    background-color:darkkhaki;
+}
+
+.middle {
+    background-color:chartreuse;
+}
+.m_one {
+    height: 75px;
+    background-color: darkcyan ;
+}
+.m_two {
+    width: 100px;
+    height: 70px;
+    background-color:aquamarine;
+    float: left;
+}
+.m_three {
+    width: 100px;
+    height: 70px;
+    background-color:  lightblue;
+    float: left;
+}
+.m_four {
+    width: 100px;
+    height: 70px;
+    background-color: aqua;
+    float: left;
+}
+.m_five {
+    width: 50px;
+    height: 255px;
+    background-color: darkred;
+    float: left;
+}
+.m_six {
+    width: 50px;
+    height: 115px;
+    background-color: aquamarine;
+    float: left;
+}
+.m_seven {
+    width: 100px;
+    height: 70px;
+    background-color:blue;
+    float: left;
+}
+.m_eight {
+    width: 100px;
+    height: 70px;
+    background-color: darkcyan;
+    float: left;
+}
+.m_nine {
+    width: 50px;
+    height: 70px;
+    background-color: darkred;
+}
+.m_twelve {
+    width: 100px;
+    height: 70px;
+    background-color:blueviolet;
+    float: left;
+}
+.m_thirteen {
+    width: 100px;
+    height: 70px;
+    background-color:bisque;
+    float: left;
+}
+.m_fourteen {
+    width: 50px;
+    height: 115px;
+    margin: 0 0 0 50px;
+    background-color:beige;
+    float: left;
+}
+.m_fifteen {
+    width: 50px;
+    height: 115px;
+    background-color: coral;
+    float: left;
+}
+.m_sixteen {
+    width: 100px;
+    height: 115px;
+    background-color:bisque;
+    float: left;
+}
+
+.r_one {
+    width: 100px;
+    height: 75px;
+    background-color:darkseagreen;
+    float:left;
+}
+.r_two {
+    width: 100px;
+    height: 75px;
+    background-color:pink;
+    float: left;
+}
+.r_three {
+    width: 100px;
+    height: 75px;
+    background-color:gold;
+    float: left;
+}
+
+.r_four {
+    width: 300px;
+    height: 65px;
+    background-color: beige;
+    float: left;
+}
+.r_medium {
+    width: 60%;
+    padding: 20px 0 0 0;
+    margin: 8px 55px;
+    background-color: crimson;
+}
+.r_small {
+    width: 15px;
+    height: 10px;
+    margin: 20px 80px 0;
+    background-color: black;
+}
+
+.r_five {
+    width: 300px;
+    height: 55px;
+    background-color:azure;
+    float: left;
+}
+
+.one {
+    width: 100px;
+    height: 75px;
+    background-color: darkslategrey;
+    float: left;
+}
+.two {
+    width: 200px;
+    height: 75px;
+    background-color: darkmagenta;
+    float: left;
+}
+
+.three {
+    width: 100px;
+    height: 75px;
+    background-color: darkslategrey;
+    float: left;
+}
+.four {
+    width: 100px;
+    height: 75px;
+    background-color: plum;
+    float: left;
+}
+.five {
+    width: 100px;
+    height: 75px;
+    background-color: yellowgreen;
+    float: left;
+}
+.six {
+    width: 100px;
+    height: 55px;
+    background-color: darkslategrey;
+    float: left;
+}
+.seven {
+    width: 200px;
+    height: 55px;
+    background-color: palevioletred;
+    float: left;
+}
+
+.pidval {
+    height: 100px;
+    padding: 25px 0;
+    background-color: grey;
+}
